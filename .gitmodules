@@ -1,0 +1,18 @@
+[submodule "_deps/imgui"]
+	path = _deps/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "_deps/imgui-sfml"]
+	path = _deps/imgui-sfml
+	url = https://github.com/eliasdaler/imgui-sfml
+[submodule "_deps/json"]
+	path = _deps/json
+	url = https://github.com/nlohmann/json
+[submodule "_deps/SFML"]
+	path = _deps/SFML
+	url = https://github.com/SFML/SFML
+[submodule "_deps/spdlog"]
+	path = _deps/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "_deps/Cmake-ImGui-SFML"]
+	path = _deps/Cmake-ImGui-SFML
+	url = https://github.com/SoraCasus/Cmake-ImGui-SFML
